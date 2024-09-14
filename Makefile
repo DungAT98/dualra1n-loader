@@ -37,3 +37,4 @@ package:
 	@mkdir -p packages
 
 	@zip -r9 packages/dualra1n-loader.ipa Payload
+
